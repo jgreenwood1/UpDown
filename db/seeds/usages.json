@@ -1,0 +1,7 @@
+[
+  {"name": "General Fitness", "value": "fitness"},
+  {"name": "Building Muscle", "value": "muscle"},
+  {"name": "Losing Weight", "value": "weight"},
+  {"name": "Gaining Strength", "value": "strength"},
+  {"name": "Building Endurance", "value": "endurance"}
+]
